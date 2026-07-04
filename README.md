@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Muganwa Steven
+- 👋 Hi, I’m Steven Muganwa
 - 👀 I’m interested in React, NodeJs, & SpringBoot.
-- 🌱 I’m currently horning my skills to be ready for that special project.
+- 🌱 I’m currently working on a few personal projects but always open to more work.
 - 💞️ I’m looking to collaborate on ...cool Javascript/TypeScript projects, whatever you think is cool, just let me know.
 - 📫 How to reach me 1 - stevenmuganwa@gmail.com or https://twitter.com/muganwas
 
