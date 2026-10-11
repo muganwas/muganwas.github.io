@@ -10,7 +10,7 @@ Also in the toolbox
 
 Java and Spring Boot, from mobile work and personal projects. Nothing shipped to production on those yet, but I am comfortable in both and happy to take on work that uses them.
 
-What I have shipped
+What I have worked on/shipped
 
 Sportunity (sportunity.com): sports event and venue management platform. Built the React web app and React Native mobile app, scaled to 30,000+ users.
 
